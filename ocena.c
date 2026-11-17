@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-int main(){
-    int szukana_liczba;
-    int wpisana_liczba;
+void ocena(int user_input,int random_number){
+    int szukana_liczba = random_number;
+    int wpisana_liczba = user_input;  
 }
